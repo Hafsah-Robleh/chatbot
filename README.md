@@ -1,2 +1,2 @@
 # chatbot
-a repo for a simple chatbot built with python and Open AI's 3.5 model
+a repository for a simple chatbot built with Python and OpenAI's 3.5 model
